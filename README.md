@@ -1,12 +1,5 @@
 # LinkedList
 
-/**
- * Name of class or file (LinkedList)
- *
- * @author  khaled Elzeiny, 7823821
- *
- * PURPOSE: the purpose of this file is to create linked list 
- */
 public class LinkedList {
 
 	private Node top;  // point to the head of the list
